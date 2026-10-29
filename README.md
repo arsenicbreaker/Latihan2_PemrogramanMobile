@@ -5,20 +5,20 @@ Tugas **Pemrograman Aplikasi Mobile — Pertemuan 2**
 ## Hasil Pengerjaan
 
 ### 01. StatelessWidget — Kartu Mahasiswa dan Profil
-![Screenshot latihan Stateless](lib/latihan/proof_of_work/result_stateless.png)
+![Screenshot latihan Stateless](lib/proof_of_work/result_stateless.png)
 
 ### 02. StatefulWidget — Counter
-![Screenshot latihan Stateful](lib/latihan/proof_of_work/result_stateful.png)
+![Screenshot latihan Stateful](lib/proof_of_work/result_stateful.png)
 
 ## Struktur Folder
 
 ```text
-second/
+tugas_2/
 ├── lib/
-│   ├── main.dart
-│   ├── count.dart
-│   └── proof_of_work/
-│       ├── 01.png
-│       └── 02.png
+│   ├── Latihan/
+│   ├── proof_of_work/
+│   │   ├── result_stateful.png
+│   │   └── result_stateless.png
+│   └── main.dart
 └── README.md
 ```
